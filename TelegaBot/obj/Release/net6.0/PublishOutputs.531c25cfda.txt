@@ -1,0 +1,10 @@
+C:\Users\Suction\Desktop\bot\TelegaBot.exe
+C:\Users\Suction\Desktop\bot\TelegaBot.dll
+C:\Users\Suction\Desktop\bot\TelegaBot.deps.json
+C:\Users\Suction\Desktop\bot\TelegaBot.runtimeconfig.json
+C:\Users\Suction\Desktop\bot\TelegaBot.pdb
+C:\Users\Suction\Desktop\bot\SeleniumExtras.WaitHelpers.dll
+C:\Users\Suction\Desktop\bot\WindowsInput.dll
+C:\Users\Suction\Desktop\bot\Newtonsoft.Json.dll
+C:\Users\Suction\Desktop\bot\WebDriver.dll
+C:\Users\Suction\Desktop\bot\Telegram.Bot.dll

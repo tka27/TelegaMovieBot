@@ -1,0 +1,11 @@
+C:\Users\Suction\Desktop\TelegaBot.exe
+C:\Users\Suction\Desktop\TelegaBot.dll
+C:\Users\Suction\Desktop\TelegaBot.deps.json
+C:\Users\Suction\Desktop\TelegaBot.runtimeconfig.json
+C:\Users\Suction\Desktop\TelegaBot.pdb
+C:\Users\Suction\Desktop\HtmlAgilityPack.dll
+C:\Users\Suction\Desktop\WindowsInput.dll
+C:\Users\Suction\Desktop\Newtonsoft.Json.dll
+C:\Users\Suction\Desktop\System.Speech.dll
+C:\Users\Suction\Desktop\Telegram.Bot.dll
+C:\Users\Suction\Desktop\runtimes\win\lib\net6.0\System.Speech.dll

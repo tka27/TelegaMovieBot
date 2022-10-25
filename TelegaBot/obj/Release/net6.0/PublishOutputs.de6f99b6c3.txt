@@ -1,0 +1,10 @@
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\TelegaBot.exe
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\TelegaBot.dll
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\TelegaBot.deps.json
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\TelegaBot.runtimeconfig.json
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\TelegaBot.pdb
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\SeleniumExtras.WaitHelpers.dll
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\WindowsInput.dll
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\WebDriver.dll
+D:\C#_projects\TelegaBot\TelegaBot\bin\Release\net6.0\publish\Telegram.Bot.dll
